@@ -8,6 +8,7 @@ html, body {
 body {
     background-color: black;
     background-image: url(./assets/sanJuanCollage.jpeg);
+    background-attachment: fixed;
 }
 
 #container {
